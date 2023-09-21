@@ -1,5 +1,5 @@
 wheel==0.36.2
-redis==3.5.3
+redis==4.3.6
 numpy==1.20.3
 torch==1.9.0+cu102
 plotly==5.3.1
